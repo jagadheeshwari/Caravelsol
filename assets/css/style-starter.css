@@ -20261,3 +20261,6 @@ p.copy-footer-29 {
 
 /*--//Footer-9--*/
 /*# sourceMappingURL=style-freedom.css.map */
+ul.navbar-nav.my-2.navbar-nav-scroll {
+    margin: 0 10px 0 auto;
+}
